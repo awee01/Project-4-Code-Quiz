@@ -8,3 +8,8 @@ Scores are saved with Local storage and can be accessed again upon refreshing th
 
 Highscores can be completely cleared. 
 
+
+![image](https://user-images.githubusercontent.com/85651950/141399565-05442c23-d672-42af-8549-b1e823574af4.png)
+
+
+Livelink: 
