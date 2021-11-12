@@ -2,9 +2,9 @@
 
 This web app is a Coding quiz that will ask users a series of multiple questions. Users have 60 seconds to answer all questions.
 
-Wrong answers will subtract from the timer by 10 seconds.
+Wrong answers will subtract from the timer by 10 seconds. The quiz ends when all questions have been answered. Your score is based off how much time you have left.
 
-Scores are saved with Local storage and can be accessed again upon refreshing the page.
+Scores are saved with local storage and can be accessed again upon refreshing the page.
 
 Highscores can be completely cleared. 
 
