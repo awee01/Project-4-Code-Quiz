@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(75, 75, 75);
+    color: white;
+    font-size: x-large;
+  }
+
+
+.btn {
+    display: inline-block;
+    cursor: pointer;
+    border: none;
+    margin: 20px;
+    font-size: x-large;
+}
+
+.btn:hover {
+    opacity: 0.8;
+  }
+
+
+
+#main {
+
+    text-align: center;
+    border: 3px solid rgb(0, 0, 0);
+    margin: 300px;
+    padding: 50px;
+
+}
+
+#main2 {
+
+    text-align: center;
+    margin: 400px;
+    padding: 50px;
+
+
+
+}
+
+#Highscores{
+    float: left;
+
+}
+
+#time{
+    float: right;
+    padding: 20px;
+}
