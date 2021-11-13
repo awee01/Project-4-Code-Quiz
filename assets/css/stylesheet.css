@@ -9,8 +9,10 @@ body {
     display: inline-block;
     cursor: pointer;
     border: none;
-    margin: 20px;
+    margin: 10px;
     font-size: x-large;
+    text-align: center;
+    
 }
 
 .btn:hover {
@@ -31,12 +33,15 @@ body {
 #main2 {
 
     text-align: center;
-    margin: 400px;
+    border: 3px solid rgb(0, 0, 0);
+    margin: 300px;
     padding: 50px;
+   
+
+} 
 
 
 
-}
 
 #Highscores{
     float: left;
@@ -47,3 +52,31 @@ body {
     float: right;
     padding: 20px;
 }
+
+
+ul{
+    list-style-type: none;
+}
+
+li{
+
+    margin: auto;
+    width: 200px;
+    padding: 10px;
+    color: rgb(224, 220, 220);
+
+}
+
+li:hover{
+
+    cursor: pointer;
+    background-color: rgb(64, 61, 65);
+
+}
+
+#savebutton:hover{
+    cursor: pointer;
+    opacity: 0.8;
+
+}
+
