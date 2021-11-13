@@ -1,6 +1,6 @@
 # Project-4-Code-Quiz
 
-This web app is a Coding quiz that will ask users a series of multiple questions. Users have 60 seconds to answer all questions. 
+This web app is a Coding quiz that will ask users a series of multiple questions. Users have 100 seconds to answer all questions. 
 
 Wrong answers will subtract from the timer by 10 seconds. The quiz ends when all questions have been answered. Your score is based off how much time you have left.
 
