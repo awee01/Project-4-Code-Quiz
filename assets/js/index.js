@@ -147,7 +147,7 @@ function startTimer(){
 })
 
 
-//end function of the quiz, displays results page and option to save.
+//end function of the quiz, appends new content to create results page and save option for highscores
 
 function quizEnd(){
 
@@ -207,7 +207,7 @@ function quizEnd(){
     } )
 
 
-    // prevents null error for removing last "correct/incorrect" statement
+    // prevents null error for removing last "correct/incorrect" statement in line 109
     if( document.getElementById("createDiv")  || document.getElementById("createDiv") === null){
     document.getElementById("createDiv").textContent = "";
 
