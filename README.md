@@ -12,4 +12,4 @@ Viewing the highscores will interupt the current game if not finished. Highscore
 ![image](https://user-images.githubusercontent.com/85651950/141399565-05442c23-d672-42af-8549-b1e823574af4.png)
 
 
-Livelink: https://awee01.github.io/Project-4-Code-Quiz/
+Livelink: https://awee01.github.io/Project-4-Coding-Quiz/
